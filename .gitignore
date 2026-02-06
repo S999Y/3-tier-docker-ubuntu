@@ -1,6 +1,4 @@
 # Environment Variables
-.env
-.env.local
 .env.*.local
 
 # Dependencies
@@ -31,7 +29,6 @@ privkey.pem
 chain.pem
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -64,3 +61,4 @@ access.log
 
 # ACM certificate files
 /tmp/acm_certificate_arn.txt
+config.bat
